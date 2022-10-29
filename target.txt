@@ -1,19 +1,19 @@
-POST /Userprofile/Userprofile/v1/confirmPassword HTTP/2
-Host: nlp.nexterp.in
-Cookie: _ga=GA1.3.1697160399.1664698223; koda_analytics=ebaf8144-ca79-440a-9769-1a59f74a01be; XSRF-TOKEN=1704d673-f16c-485a-b2cc-1f70ba654546; NLPSESSIONID=4e45df34-252a-410d-a5be-baba93645827; _sp_ses.7e80=*; _sp_id.7e80=d4ef5c98-a79b-49a6-8a25-fa5de8ce7cea.1662727281.7.1666967528.1664705528.3bb82f5d-9c73-41ba-b0b9-a1196c36ce6c
-Content-Length: 178
+POST /____formmail/1/ HTTP/2
+Host: stxaviersalipurduar.com
+Content-Length: 203
 Sec-Ch-Ua: "Not;A=Brand";v="99", "Chromium";v="106"
-Accept: application/json
-Content-Type: application/json
+Accept: */*
+Content-Type: application/x-www-form-urlencoded
+X-Requested-With: XMLHttpRequest
 Sec-Ch-Ua-Mobile: ?0
 User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.5249.62 Safari/537.36
 Sec-Ch-Ua-Platform: "Windows"
-Origin: https://nlp.nexterp.in
+Origin: https://stxaviersalipurduar.com
 Sec-Fetch-Site: same-origin
 Sec-Fetch-Mode: cors
 Sec-Fetch-Dest: empty
-Referer: https://nlp.nexterp.in/nlp/nlp/login
+Referer: https://stxaviersalipurduar.com/contact
 Accept-Encoding: gzip, deflate
 Accept-Language: en-US,en;q=0.9
 
-{"login":"9735034421","schoolCode":"stxaviersapd","token":"345345","password":"3bbe77a5d164da39a7464af971cf0839","confirmPassword":"3bbe77a5d164da39a7464af971cf0839"}
+recipient=&email=&subject=New%20message%20via%20contact%20form%20on%20stxaviersalipurduar.com%20-%20Contact%20page&Name=1234&Email=1234@1234.com&replyto=1234@1234.com&Message=dfsdfsf&some-randome-random=
